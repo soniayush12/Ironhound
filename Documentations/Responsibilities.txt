@@ -1,0 +1,9 @@
+Utkarsh Shukla = Animations 
+
+Utkarsh verma  = Iot and hardware 
+
+Nikhil Bhaiya  = Documentation , marketing and presentation
+
+Anand Prakash  = Working Model , electronics
+
+Ayush Soni     = Designing , websockets and electronics 
